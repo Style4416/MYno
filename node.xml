@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="1" master_id="0" name="BUG BOUNTY" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1755106794" ts_lastsave="1756990013">
+    <rich_text>WHAT IS BOUNTY HUNTER?
+→ to strong the security of organaistaionn
+→ protect org. assest
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+PHASES OF BUG BOUNTY
+
+Phase 1)  Recone
+
+ imp: make account of tryhackme and take a subcriptionn of this  
+         follow the learning path of try hack me 
+         
+         make account on bug crowed and ahacker 1
+         
+         
+         
+         
+        </rich_text>
+    <rich_text background="#f9f06b" foreground="#e01b24"> BEFORE RECONE LERN OWASP TOP 10 </rich_text>
+    <rich_text>
+         
+         </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+         
+         top to down priorty of vulrability decreeasee
+         
+         </rich_text>
+    <rich_text foreground="#e01b24">for manging vulnrability  make checklist</rich_text>
+    <rich_text>
+         
+         </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+         </rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+         
+         
+         </rich_text>
+    <rich_text justification="left"></rich_text>
+    <encoded_png char_offset="89" justification="left" link="" sha256sum="f1230c47a8be9e9dea1f129edd1f86e995f75232e60d92b3f161a9c779a2b301"/>
+    <encoded_png char_offset="409" justification="left" link="" sha256sum="22fdbf4384d23d0d13b253b91d3bf803d37eaee2e09368b2b7b1874541cb6d06"/>
+    <encoded_png char_offset="555" justification="left" filename="OWASPW~1.PDF" time="1755107962" sha256sum="24e65f6dec02b7db208dce0e2185c98cffd6b6ecf3240e4b33e5432a6dd700c1"/>
+    <encoded_png char_offset="566" justification="left" filename="OWASP_~1.PDF" time="1755108060" sha256sum="44ffc667acb1cf03dc7daf9e54e53ce8ded58ffb645df24ce68348b4fbab7f0f"/>
+    <encoded_png char_offset="597" justification="left" link="" sha256sum="cca0e2b60f05087cf69cfd7b1a0655209cd91e0c1c81e53ada1384a570b56f97"/>
+  </node>
+</cherrytree>
